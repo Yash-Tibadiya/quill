@@ -22,7 +22,7 @@ This is a Python-based web application that allows users to interact with PDF fi
    python -m venv venv
    source venv/bin/activate
 
-  # On Windows, use: venv\Scripts\activate
+  - On Windows, use: venv\Scripts\activate
 
 3. **Install the required dependencies:**
    ```bash
